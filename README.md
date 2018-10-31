@@ -1,7 +1,7 @@
 # MazeSolver
 •	This program solves a maze of # and empty spaces, where # represents walls and the cursor travels through empty spaces.
 
-•	The input from the user is accepted as arguments to Main.java. The input is a location to the txt file, which has the maze defined. Examples are present in the /test folder. 
+•	The input from the user is accepted as arguments to Main.java. The input argument is a location to the txt file, which has the maze defined. Examples are present in the /test folder. 
 
 •	The solution currently supports maze wall built with '#'.
 
