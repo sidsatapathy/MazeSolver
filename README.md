@@ -7,6 +7,7 @@
 
 •	Project dependencies are managed by Maven, the solution can be executed via maven. 
 
-•	JUnit tests has been added.
+•	JUnit tests has been added. The location of the input txt files is hardcoded. This can be dynamically passed in the argument or it can be configured in a properties file. This is a pending task.
 
 •	Related local exceptions are defined
+
